@@ -31,7 +31,7 @@ Solidity v0.5.0 (solc-js)
 
 ## Using the program
 
-After cloning the repo, navigate to the directory containing `truffle.js` and run:
+After cloning the repo, navigate to the directory containing `truffle-config.js` and run:
 
 ```shell
 $ truffle version
